@@ -35,7 +35,7 @@ void SelectArray(string[] array, string[] nextArray)
             nextArray[count] = array[i];
             count++;
         }
-    if (count > 3) return;
+    if (count > 2) return;
 }
 
 void PintArray(string[] array)
