@@ -13,7 +13,7 @@ EnterElements(n);
 Console.ReadKey();
 SelectArray(array, nextArray);
 Console.WriteLine();
-
+PintArray(nextArray);
 void EnterElements(int n)
 {
     for (int i = 0; i < n; i++)
@@ -36,4 +36,13 @@ void SelectArray(string[] array, string[] nextArray)
             count++;
         }
     if (count > 3) return;
+}
+
+void PintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{nextArray[i]} \t ");
+    }
+    Console.WriteLine();
 }
