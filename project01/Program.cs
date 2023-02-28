@@ -11,7 +11,7 @@ string[] nextArray = new string[n];
 Console.WriteLine();
 EnterElements(n);
 Console.ReadKey();
-
+SelectArray(array, nextArray);
 Console.WriteLine();
 
 void EnterElements(int n)
@@ -24,4 +24,16 @@ void EnterElements(int n)
     Console.ReadKey();
     Console.WriteLine();
     Console.WriteLine("Начальный массив: [" + string.Join(", ", array) + "]");
+}
+
+void SelectArray(string[] array, string[] nextArray)
+{
+    int count = 0;
+    for (int i = 0; i < array.Length; ++i)
+        if (i % 2 != 0)
+        {
+            nextArray[count] = array[i];
+            count++;
+        }
+    if (count > 3) return;
 }
