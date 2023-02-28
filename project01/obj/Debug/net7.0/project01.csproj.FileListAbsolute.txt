@@ -1,0 +1,15 @@
+C:\Users\Sasha\Desktop\project\project01\bin\Debug\net7.0\project01.exe
+C:\Users\Sasha\Desktop\project\project01\bin\Debug\net7.0\project01.deps.json
+C:\Users\Sasha\Desktop\project\project01\bin\Debug\net7.0\project01.runtimeconfig.json
+C:\Users\Sasha\Desktop\project\project01\bin\Debug\net7.0\project01.dll
+C:\Users\Sasha\Desktop\project\project01\bin\Debug\net7.0\project01.pdb
+C:\Users\Sasha\Desktop\project\project01\obj\Debug\net7.0\project01.csproj.AssemblyReference.cache
+C:\Users\Sasha\Desktop\project\project01\obj\Debug\net7.0\project01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\Desktop\project\project01\obj\Debug\net7.0\project01.AssemblyInfoInputs.cache
+C:\Users\Sasha\Desktop\project\project01\obj\Debug\net7.0\project01.AssemblyInfo.cs
+C:\Users\Sasha\Desktop\project\project01\obj\Debug\net7.0\project01.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\project\project01\obj\Debug\net7.0\project01.dll
+C:\Users\Sasha\Desktop\project\project01\obj\Debug\net7.0\refint\project01.dll
+C:\Users\Sasha\Desktop\project\project01\obj\Debug\net7.0\project01.pdb
+C:\Users\Sasha\Desktop\project\project01\obj\Debug\net7.0\project01.genruntimeconfig.cache
+C:\Users\Sasha\Desktop\project\project01\obj\Debug\net7.0\ref\project01.dll
